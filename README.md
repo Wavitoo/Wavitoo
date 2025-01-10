@@ -18,7 +18,7 @@ Je suis un étudiant en informatique à **EPITECH Paris** avec un intérêt part
 
 Voici quelques-uns de mes projets récents :
 
-### [Remake de Trello](https://github.com/Wavitoo/Trello-Remake)
+### [Remake de Trello](https://github.com/Wavitoo/Trello)
 - Un projet **React** utilisant **Node.js**, **Express**, et **MongoDB** pour créer une version personnalisée de l'application Trello. Ce projet permet de gérer des tableaux, des sections et des tâches avec un système de **connexion/déconnexion** et un formatage avancé des cartes. Le tout fonctionne en temps réel grâce à une architecture basée sur **JavaScript** et **MongoDB** pour la persistance des données.
 
 ### [Gomoku](https://github.com/Wavitoo/Gomoku)
